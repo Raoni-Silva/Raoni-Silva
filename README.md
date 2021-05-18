@@ -11,3 +11,4 @@
 
 - ⚡ Fun fact: I'm a Dj and an electronic music producer in my free time.
 
+[![Raoni's github stats](https://github-readme-stats.vercel.app/api?username=Raoni-Silva&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
