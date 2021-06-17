@@ -6,8 +6,11 @@
 - I’m currently learning **Machine Learning** with Python and the next step will be Big Data
 
 - How to reach me: 
-    - **email:** raoni.henriques@gmail.com
-    - **Linkedin:** https://www.linkedin.com/in/raoni-silva/
+
+    <a href="https://www.linkedin.com/in/raoni-silva/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
+    
+    **email:** raoni.henriques@gmail.com
+    
 
 - ⚡ Fun fact: I'm a Dj and an electronic music producer in my free time.
 
