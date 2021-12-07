@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- I’m a Mechanical Engineer aspiring to be a **Data Scientist**, studying, learning and **looking for a job opportunity**
-- I use mostly **Python**, but know something of SQL, DAX and R
-- I’m currently learning **Machine Learning** with Python and the next step will be Big Data
+- I’m currently a Data Analyst with a Mechanical Engineer degree aspiring to be a **Data Scientist**, studying, learning and **looking for a job opportunity**
+- I use mostly **Python** and DAX, but know something of SQL
+- I’m currently learning **Data Science** and **Machine Learning** with Python and the next step will be Big Data
 
 - How to reach me: 
 
