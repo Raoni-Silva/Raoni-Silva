@@ -2,7 +2,7 @@
 
 
 - I’m currently a Data Analyst with a Mechanical Engineer degree aspiring to be a **Data Scientist**, studying, learning and **looking for a job opportunity**
-- I use mostly **Python**, Power Query and DAX, but know something of SQL
+- I use mostly **Python**, Power Query and DAX and SQL
 - I’m currently learning **Data Science** and **Machine Learning** with Python and the next step will be Big Data
 
 - How to reach me: 
